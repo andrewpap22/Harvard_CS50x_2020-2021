@@ -58,6 +58,8 @@ the best learning experience in my own personal humble opinion.
 
 <hr>
 
+
+(❗)*Every single problem set up until now is graded with a: **100%** mark!* <br><br>
 **I'll keep updating the repo as I go through the course!** 
 <br>
 *Thank you!* 
