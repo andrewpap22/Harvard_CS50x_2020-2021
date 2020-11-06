@@ -19,6 +19,7 @@ the best learning experience in my own personal humble opinion.
  <ul>
    <li> 
     <h2>🗒️<a href = "https://github.com/andrewpap22/Harvard_CS50x_2020-2021/tree/master/misc">Misc.</a></h2>
+     <p><i>- This one consists of notes I'm taking on throughout the lectures.</i></p>
     <ul>
       <li>
         <h3>💡<a href = "https://github.com/andrewpap22/Harvard_CS50x_2020-2021/tree/master/misc/algorithms">Algorithms</a></h3>
